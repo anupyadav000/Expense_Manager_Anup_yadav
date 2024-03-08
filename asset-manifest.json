@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/expense-manager-web-app/static/css/main.7bc473f0.chunk.css",
+    "main.js": "/expense-manager-web-app/static/js/main.a29b9276.chunk.js",
+    "main.js.map": "/expense-manager-web-app/static/js/main.a29b9276.chunk.js.map",
+    "runtime-main.js": "/expense-manager-web-app/static/js/runtime-main.04662280.js",
+    "runtime-main.js.map": "/expense-manager-web-app/static/js/runtime-main.04662280.js.map",
+    "static/js/2.9ce3107d.chunk.js": "/expense-manager-web-app/static/js/2.9ce3107d.chunk.js",
+    "static/js/2.9ce3107d.chunk.js.map": "/expense-manager-web-app/static/js/2.9ce3107d.chunk.js.map",
+    "static/js/3.5c826873.chunk.js": "/expense-manager-web-app/static/js/3.5c826873.chunk.js",
+    "static/js/3.5c826873.chunk.js.map": "/expense-manager-web-app/static/js/3.5c826873.chunk.js.map",
+    "index.html": "/expense-manager-web-app/index.html",
+    "static/css/main.7bc473f0.chunk.css.map": "/expense-manager-web-app/static/css/main.7bc473f0.chunk.css.map",
+    "static/js/2.9ce3107d.chunk.js.LICENSE.txt": "/expense-manager-web-app/static/js/2.9ce3107d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04662280.js",
+    "static/js/2.9ce3107d.chunk.js",
+    "static/css/main.7bc473f0.chunk.css",
+    "static/js/main.a29b9276.chunk.js"
+  ]
+}
